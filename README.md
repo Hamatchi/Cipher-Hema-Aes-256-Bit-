@@ -1,5 +1,6 @@
 # Cipher-Hema-Aes-256-Bit-
 Very light program that uses only 16MB CPU and encrypts and decrypts within 30 seconds to 4 minutes and you must know salt the program and your data may be lost if you forget salt And even if you have the key secret
+Works on windows .
 
 This Video Explanation of the Tool : https://youtu.be/4YQ-G-QfbqU
 
